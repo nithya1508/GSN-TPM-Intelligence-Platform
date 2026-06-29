@@ -1,15 +1,14 @@
 # 🌊 GSN TPM Intelligence Platform
-### Google Global Submarine Networks — Technical Program Manager Portfolio Project
+### Global Submarine Networks — Technical Program Manager Portfolio Project
 
 > **Author:** Nithyashree Babu  
-> **Target Role:** Technical Program Manager, Global Submarine Networks (GSN) — Google  
 > **Skills Demonstrated:** Subsea infrastructure analytics · Critical path management · EVM · Statistical anomaly detection · Executive dashboards
 
 ---
 
 ## 📌 Project Overview
 
-This end-to-end analytics platform mirrors the real-world responsibilities of a **Google GSN Technical Program Manager**, covering:
+This end-to-end analytics platform mirrors the real-world responsibilities of a **Technical Program Manager**, covering:
 
 <img width="1440" height="1246" alt="image" src="https://github.com/user-attachments/assets/92694834-17d4-41a5-844b-a9c280ca97a2" />
 
