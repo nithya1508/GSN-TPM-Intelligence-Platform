@@ -11,17 +11,8 @@
 
 This end-to-end analytics platform mirrors the real-world responsibilities of a **Google GSN Technical Program Manager**, covering:
 
-| JD Requirement | Implementation |
-|---|---|
-| Transform complex subsea datasets into actionable insights | `src/analytics.py` — EVM, KS-Test, PSI anomaly detection |
-| Develop advanced analytics tools & Looker dashboards | `dashboard/app.py` — 5-page interactive Streamlit dashboard |
-| Critical path identification & real-time milestone monitoring | `src/analytics.py:compute_critical_path()` + cascade delay heatmap |
-| Identify bottlenecks, propose mitigation plans | `src/analytics.py:identify_bottlenecks()` + RAID risk log |
-| Translate technical data into executive visual narratives | EVM quadrant charts, Gantt, risk heatmaps |
-| Establish program metrics & global standardization | KPI time-series · SPI/CPI trending · standardization scorecards |
-| Cross-functional stakeholder alignment | RAID log with owner tracking, EMV exposure by category |
+<img width="1440" height="1246" alt="image" src="https://github.com/user-attachments/assets/92694834-17d4-41a5-844b-a9c280ca97a2" />
 
----
 
 ## 🏗️ Architecture
 
