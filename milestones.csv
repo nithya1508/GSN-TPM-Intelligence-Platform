@@ -1,0 +1,71 @@
+project_id,cable_name,milestone,milestone_idx,planned_date,actual_date,delay_days,status,is_critical_path
+GSN-2024,EURASIA-1,Survey Complete,0,2023-01-11,2023-01-11,0,Complete,True
+GSN-2024,EURASIA-1,Environmental Impact Assessment,1,2023-02-22,2023-02-24,2,Complete,False
+GSN-2024,EURASIA-1,Marine License Granted,2,2023-04-06,2023-04-06,0,Complete,True
+GSN-2024,EURASIA-1,Cable Manufacturing Start,3,2023-05-19,2023-05-19,0,Complete,False
+GSN-2024,EURASIA-1,Cable Ship Mobilization,4,2023-07-01,2023-07-11,10,Complete,True
+GSN-2024,EURASIA-1,Shore Landing – Point A,5,2023-08-13,2023-08-13,0,Complete,True
+GSN-2024,EURASIA-1,Burial Complete – Segment 1,6,2023-09-25,2023-09-25,0,Complete,False
+GSN-2024,EURASIA-1,Burial Complete – Segment 2,7,2023-11-07,2023-11-07,0,Complete,False
+GSN-2024,EURASIA-1,Repeater Deployment,8,2023-12-19,2023-12-19,0,Complete,False
+GSN-2024,EURASIA-1,Shore Landing – Point B,9,2024-01-31,2024-01-31,0,Complete,True
+GSN-2024,EURASIA-1,Power Feed Equipment Install,10,2024-03-14,2024-03-14,0,Complete,False
+GSN-2024,EURASIA-1,Wet Testing,11,2024-04-26,2024-04-28,2,Complete,False
+GSN-2024,EURASIA-1,System Acceptance Test,12,2024-06-08,2024-06-08,0,Complete,True
+GSN-2024,EURASIA-1,Ready for Service (RFS),13,2024-07-21,2024-07-21,0,Complete,True
+GSN-2025,AFRICA-WEST,Survey Complete,0,2023-03-12,2023-03-12,0,Complete,True
+GSN-2025,AFRICA-WEST,Environmental Impact Assessment,1,2023-04-23,2023-05-05,12,Complete,False
+GSN-2025,AFRICA-WEST,Marine License Granted,2,2023-06-05,2023-06-05,0,Complete,True
+GSN-2025,AFRICA-WEST,Cable Manufacturing Start,3,2023-07-18,2023-07-18,0,Complete,False
+GSN-2025,AFRICA-WEST,Cable Ship Mobilization,4,2023-08-30,2023-09-04,5,Complete,True
+GSN-2025,AFRICA-WEST,Shore Landing – Point A,5,2023-10-12,2023-10-12,0,Complete,True
+GSN-2025,AFRICA-WEST,Burial Complete – Segment 1,6,2023-11-24,2023-11-25,1,Complete,False
+GSN-2025,AFRICA-WEST,Burial Complete – Segment 2,7,2024-01-06,2024-01-06,0,Complete,False
+GSN-2025,AFRICA-WEST,Repeater Deployment,8,2024-02-17,2024-02-17,0,Complete,False
+GSN-2025,AFRICA-WEST,Shore Landing – Point B,9,2024-03-31,2024-04-01,1,Complete,True
+GSN-2025,AFRICA-WEST,Power Feed Equipment Install,10,2024-05-13,2024-05-18,5,Complete,False
+GSN-2025,AFRICA-WEST,Wet Testing,11,2024-06-25,2024-06-26,1,Complete,False
+GSN-2025,AFRICA-WEST,System Acceptance Test,12,2024-08-07,2024-08-07,0,Complete,True
+GSN-2025,AFRICA-WEST,Ready for Service (RFS),13,2024-09-19,2024-09-19,0,Complete,True
+GSN-2026,MEDLINK-2,Survey Complete,0,2023-05-11,2023-05-11,0,Complete,True
+GSN-2026,MEDLINK-2,Environmental Impact Assessment,1,2023-06-22,2023-06-22,0,Complete,False
+GSN-2026,MEDLINK-2,Marine License Granted,2,2023-08-04,2023-08-04,0,Complete,True
+GSN-2026,MEDLINK-2,Cable Manufacturing Start,3,2023-09-16,2023-09-26,10,Complete,False
+GSN-2026,MEDLINK-2,Cable Ship Mobilization,4,2023-10-29,2023-11-04,6,Complete,True
+GSN-2026,MEDLINK-2,Shore Landing – Point A,5,2023-12-11,2023-12-11,0,Complete,True
+GSN-2026,MEDLINK-2,Burial Complete – Segment 1,6,2024-01-23,2024-01-31,8,Complete,False
+GSN-2026,MEDLINK-2,Burial Complete – Segment 2,7,2024-03-06,2024-03-10,4,Complete,False
+GSN-2026,MEDLINK-2,Repeater Deployment,8,2024-04-17,2024-04-20,3,Complete,False
+GSN-2026,MEDLINK-2,Shore Landing – Point B,9,2024-05-30,2024-06-12,13,Complete,True
+GSN-2026,MEDLINK-2,Power Feed Equipment Install,10,2024-07-12,2024-07-29,17,Complete,False
+GSN-2026,MEDLINK-2,Wet Testing,11,2024-08-24,2024-09-11,18,Complete,False
+GSN-2026,MEDLINK-2,System Acceptance Test,12,2024-10-06,2024-10-12,6,Complete,True
+GSN-2026,MEDLINK-2,Ready for Service (RFS),13,2024-11-18,2024-11-29,11,Complete,True
+GSN-2027,NORDIC-CONNECT,Survey Complete,0,2023-07-10,2023-07-12,2,Complete,True
+GSN-2027,NORDIC-CONNECT,Environmental Impact Assessment,1,2023-08-21,2023-08-29,8,Complete,False
+GSN-2027,NORDIC-CONNECT,Marine License Granted,2,2023-10-03,2023-10-03,0,Complete,True
+GSN-2027,NORDIC-CONNECT,Cable Manufacturing Start,3,2023-11-15,2023-11-20,5,Complete,False
+GSN-2027,NORDIC-CONNECT,Cable Ship Mobilization,4,2023-12-28,2023-12-28,0,Complete,True
+GSN-2027,NORDIC-CONNECT,Shore Landing – Point A,5,2024-02-09,2024-02-11,2,Complete,True
+GSN-2027,NORDIC-CONNECT,Burial Complete – Segment 1,6,2024-03-23,2024-04-10,18,Complete,False
+GSN-2027,NORDIC-CONNECT,Burial Complete – Segment 2,7,2024-05-05,2024-05-29,24,Complete,False
+GSN-2027,NORDIC-CONNECT,Repeater Deployment,8,2024-06-16,2024-07-02,16,Complete,False
+GSN-2027,NORDIC-CONNECT,Shore Landing – Point B,9,2024-07-29,2024-08-24,26,Complete,True
+GSN-2027,NORDIC-CONNECT,Power Feed Equipment Install,10,2024-09-10,2024-10-03,23,Complete,False
+GSN-2027,NORDIC-CONNECT,Wet Testing,11,2024-10-23,2024-11-11,19,Complete,False
+GSN-2027,NORDIC-CONNECT,System Acceptance Test,12,2024-12-05,2025-01-02,28,Complete,True
+GSN-2027,NORDIC-CONNECT,Ready for Service (RFS),13,2025-01-17,2025-02-24,38,Complete,True
+GSN-2028,INDO-PACIFIC-3,Survey Complete,0,2023-09-08,2023-09-08,0,Complete,True
+GSN-2028,INDO-PACIFIC-3,Environmental Impact Assessment,1,2023-10-20,2023-10-30,10,Complete,False
+GSN-2028,INDO-PACIFIC-3,Marine License Granted,2,2023-12-02,2023-12-02,0,Complete,True
+GSN-2028,INDO-PACIFIC-3,Cable Manufacturing Start,3,2024-01-14,2024-01-19,5,Complete,False
+GSN-2028,INDO-PACIFIC-3,Cable Ship Mobilization,4,2024-02-26,2024-02-26,0,Complete,True
+GSN-2028,INDO-PACIFIC-3,Shore Landing – Point A,5,2024-04-09,2024-04-09,0,Complete,True
+GSN-2028,INDO-PACIFIC-3,Burial Complete – Segment 1,6,2024-05-22,2024-05-22,0,Complete,False
+GSN-2028,INDO-PACIFIC-3,Burial Complete – Segment 2,7,2024-07-04,2024-07-04,0,Complete,False
+GSN-2028,INDO-PACIFIC-3,Repeater Deployment,8,2024-08-15,2024-08-15,0,Complete,False
+GSN-2028,INDO-PACIFIC-3,Shore Landing – Point B,9,2024-09-27,2024-09-29,2,Complete,True
+GSN-2028,INDO-PACIFIC-3,Power Feed Equipment Install,10,2024-11-09,2024-11-19,10,Complete,False
+GSN-2028,INDO-PACIFIC-3,Wet Testing,11,2024-12-22,2024-12-22,0,Complete,False
+GSN-2028,INDO-PACIFIC-3,System Acceptance Test,12,2025-02-03,2025-02-03,0,Complete,True
+GSN-2028,INDO-PACIFIC-3,Ready for Service (RFS),13,2025-03-18,2025-03-18,0,Complete,True

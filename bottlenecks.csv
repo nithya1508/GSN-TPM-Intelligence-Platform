@@ -1,0 +1,8 @@
+milestone,avg_delay,max_delay,projects_affected,bottleneck_score,rank
+Ready for Service (RFS),9.8,38,5,49.0,1
+Shore Landing – Point B,8.4,26,5,42.0,2
+System Acceptance Test,6.8,28,5,34.0,3
+Cable Ship Mobilization,4.2,10,5,21.0,4
+Shore Landing – Point A,0.4,2,5,2.0,5
+Survey Complete,0.4,2,5,2.0,6
+Marine License Granted,0.0,0,5,0.0,7

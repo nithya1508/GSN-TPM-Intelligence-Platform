@@ -1,0 +1,6 @@
+project_id,cable_name,route,region,length_km,capacity_tbps,supplier,start_date,planned_rfs,forecast_rfs,delay_days,budget_m_usd,spend_to_date_m_usd,completion_pct,status
+GSN-2024,EURASIA-1,UK–France–Egypt–India,EMEA,14200,240,SubCom,2023-01-01,2026-07-24,2026-07-24,0,1145.3,965.3,85.3,On Track
+GSN-2025,AFRICA-WEST,Portugal–Morocco–Nigeria–Angola,EMEA,8700,180,SubCom,2023-03-02,2025-10-08,2025-10-08,0,693.3,397.4,61.0,On Track
+GSN-2026,MEDLINK-2,Spain–Italy–Cyprus–Israel,EMEA,5400,120,NEC Corporation,2023-05-01,2025-05-12,2025-05-27,15,437.6,244.3,60.5,At Risk
+GSN-2027,NORDIC-CONNECT,UK–Norway–Denmark–Finland,EMEA,3200,96,Alcatel Submarine Networks,2023-06-30,2025-02-21,2025-03-23,30,254.2,158.3,59.1,At Risk
+GSN-2028,INDO-PACIFIC-3,India–Singapore–Japan–Korea,APAC,17800,360,Alcatel Submarine Networks,2023-08-29,2027-11-04,2027-11-04,0,1426.9,1031.3,70.2,On Track

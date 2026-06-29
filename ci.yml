@@ -1,0 +1,36 @@
+name: GSN TPM CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Generate data
+        run: python src/data_generator.py
+      - name: Run analytics engine
+        run: python src/analytics.py
+      - name: Verify outputs
+        run: |
+          python -c "
+          import pandas as pd, os
+          files = ['projects','milestones','risk_log','kpi_timeseries','fiber_health',
+                   'evm_metrics','critical_path','fiber_anomalies','bottlenecks']
+          for f in files:
+              path = f'data/{f}.csv'
+              assert os.path.exists(path), f'Missing {path}'
+              df = pd.read_csv(path)
+              assert len(df) > 0, f'Empty {path}'
+              print(f'✅ {f}.csv — {len(df)} rows')
+          "

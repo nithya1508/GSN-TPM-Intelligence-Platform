@@ -1,0 +1,28 @@
+risk_id,project_id,cable_name,category,description,probability,impact,risk_score,severity,mitigation,owner,status,raised_date
+R-0001,GSN-2024,EURASIA-1,Permitting,Permitting risk affecting EURASIA-1 deployment,0.75,0.77,0.578,Critical,Contingency plan activated for permitting scenario,TPM Lead,Closed,2024-01-17
+R-0002,GSN-2024,EURASIA-1,Weather Delay,Weather Delay risk affecting EURASIA-1 deployment,0.54,0.81,0.437,High,Contingency plan activated for weather delay scenario,TPM Lead,Open,2024-04-29
+R-0003,GSN-2024,EURASIA-1,Weather Delay,Weather Delay risk affecting EURASIA-1 deployment,0.66,0.33,0.218,Medium,Contingency plan activated for weather delay scenario,Engineering,Closed,2024-04-22
+R-0004,GSN-2024,EURASIA-1,Schedule Slip,Schedule Slip risk affecting EURASIA-1 deployment,0.72,0.58,0.418,High,Contingency plan activated for schedule slip scenario,Legal,Open,2025-01-23
+R-0005,GSN-2024,EURASIA-1,Supplier,Supplier risk affecting EURASIA-1 deployment,0.67,0.83,0.556,Critical,Contingency plan activated for supplier scenario,Procurement,Mitigated,2024-05-22
+R-0006,GSN-2025,AFRICA-WEST,Environmental,Environmental risk affecting AFRICA-WEST deployment,0.32,0.28,0.09,Low,Contingency plan activated for environmental scenario,Legal,Open,2024-02-17
+R-0007,GSN-2025,AFRICA-WEST,Cost Overrun,Cost Overrun risk affecting AFRICA-WEST deployment,0.26,0.5,0.13,Low,Contingency plan activated for cost overrun scenario,TPM Lead,Mitigated,2024-06-25
+R-0008,GSN-2025,AFRICA-WEST,Geopolitical,Geopolitical risk affecting AFRICA-WEST deployment,0.67,0.8,0.536,Critical,Contingency plan activated for geopolitical scenario,TPM Lead,Closed,2024-10-01
+R-0009,GSN-2025,AFRICA-WEST,Permitting,Permitting risk affecting AFRICA-WEST deployment,0.1,0.56,0.056,Low,Contingency plan activated for permitting scenario,Procurement,Open,2024-10-09
+R-0010,GSN-2025,AFRICA-WEST,Geopolitical,Geopolitical risk affecting AFRICA-WEST deployment,0.39,0.36,0.14,Low,Contingency plan activated for geopolitical scenario,Legal,Open,2024-12-26
+R-0011,GSN-2026,MEDLINK-2,Weather Delay,Weather Delay risk affecting MEDLINK-2 deployment,0.18,0.44,0.079,Low,Contingency plan activated for weather delay scenario,Engineering,Mitigated,2024-02-10
+R-0012,GSN-2026,MEDLINK-2,Environmental,Environmental risk affecting MEDLINK-2 deployment,0.76,0.43,0.327,High,Contingency plan activated for environmental scenario,TPM Lead,Closed,2024-05-22
+R-0013,GSN-2026,MEDLINK-2,Schedule Slip,Schedule Slip risk affecting MEDLINK-2 deployment,0.46,0.69,0.317,High,Contingency plan activated for schedule slip scenario,Legal,Open,2024-07-08
+R-0014,GSN-2026,MEDLINK-2,Technical,Technical risk affecting MEDLINK-2 deployment,0.35,0.88,0.308,High,Contingency plan activated for technical scenario,Engineering,Mitigated,2024-12-25
+R-0015,GSN-2027,NORDIC-CONNECT,Permitting,Permitting risk affecting NORDIC-CONNECT deployment,0.77,0.38,0.293,Medium,Contingency plan activated for permitting scenario,Engineering,Open,2024-03-24
+R-0016,GSN-2027,NORDIC-CONNECT,Schedule Slip,Schedule Slip risk affecting NORDIC-CONNECT deployment,0.45,0.41,0.184,Medium,Contingency plan activated for schedule slip scenario,Procurement,Mitigated,2024-11-23
+R-0017,GSN-2027,NORDIC-CONNECT,Environmental,Environmental risk affecting NORDIC-CONNECT deployment,0.3,0.23,0.069,Low,Contingency plan activated for environmental scenario,Legal,Open,2024-04-27
+R-0018,GSN-2027,NORDIC-CONNECT,Weather Delay,Weather Delay risk affecting NORDIC-CONNECT deployment,0.53,0.55,0.292,Medium,Contingency plan activated for weather delay scenario,Legal,Closed,2024-05-17
+R-0019,GSN-2027,NORDIC-CONNECT,Permitting,Permitting risk affecting NORDIC-CONNECT deployment,0.14,0.4,0.056,Low,Contingency plan activated for permitting scenario,Engineering,Mitigated,2024-04-18
+R-0020,GSN-2027,NORDIC-CONNECT,Schedule Slip,Schedule Slip risk affecting NORDIC-CONNECT deployment,0.74,0.37,0.274,Medium,Contingency plan activated for schedule slip scenario,Procurement,Closed,2024-03-14
+R-0021,GSN-2027,NORDIC-CONNECT,Geopolitical,Geopolitical risk affecting NORDIC-CONNECT deployment,0.2,0.54,0.108,Low,Contingency plan activated for geopolitical scenario,Engineering,Open,2025-01-16
+R-0022,GSN-2027,NORDIC-CONNECT,Geopolitical,Geopolitical risk affecting NORDIC-CONNECT deployment,0.79,0.37,0.292,Medium,Contingency plan activated for geopolitical scenario,Procurement,Closed,2024-07-04
+R-0023,GSN-2027,NORDIC-CONNECT,Environmental,Environmental risk affecting NORDIC-CONNECT deployment,0.57,0.73,0.416,High,Contingency plan activated for environmental scenario,Engineering,Closed,2024-02-16
+R-0024,GSN-2028,INDO-PACIFIC-3,Permitting,Permitting risk affecting INDO-PACIFIC-3 deployment,0.27,0.71,0.192,Medium,Contingency plan activated for permitting scenario,Engineering,Open,2024-12-14
+R-0025,GSN-2028,INDO-PACIFIC-3,Cost Overrun,Cost Overrun risk affecting INDO-PACIFIC-3 deployment,0.36,0.64,0.23,Medium,Contingency plan activated for cost overrun scenario,TPM Lead,Closed,2024-07-14
+R-0026,GSN-2028,INDO-PACIFIC-3,Schedule Slip,Schedule Slip risk affecting INDO-PACIFIC-3 deployment,0.54,0.58,0.313,High,Contingency plan activated for schedule slip scenario,Legal,Open,2024-12-14
+R-0027,GSN-2028,INDO-PACIFIC-3,Permitting,Permitting risk affecting INDO-PACIFIC-3 deployment,0.16,0.78,0.125,Low,Contingency plan activated for permitting scenario,Legal,Mitigated,2024-02-27
